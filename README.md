@@ -1,0 +1,1 @@
+The scratch project demonstrates a baseball game which runs in loop with variations in each ball bowled by baller and variations in each shot fired by batter. One can stop watching the game by pressing 'S'.
